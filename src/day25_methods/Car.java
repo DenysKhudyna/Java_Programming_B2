@@ -64,7 +64,6 @@ public class Car {
         System.out.println();
         driveInRush();
         driveInRush();
-
     }
 
 }
